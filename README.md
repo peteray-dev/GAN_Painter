@@ -1,4 +1,6 @@
-# GAN_Painter
+# GAN_Painter and CyclicGAN
+
+
 Imitation of Claude Manet Art work from real images (GAN)
 
 Menet art work is basically creating a painting nature the way he percieves it. He was the Impressionist who captured the feeling of being in nature the most, and he never stopped painting all the beautiful things he saw.
