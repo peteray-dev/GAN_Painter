@@ -8,3 +8,5 @@ The first code "I_AM_SOMETHING_OF_A_PAINTER_MYSELF." is a technique i'm developi
 More task is on the run to be done
 
 
+References: 
+https://medium.com/@chilldenaya/cyclegan-introduction-pytorch-implementation-5b53913741ca
