@@ -1,5 +1,8 @@
 # GAN_Painter and CyclicGAN
 
+![image](https://github.com/user-attachments/assets/2a25f83f-b3c6-4a49-be6c-c84ce931be47)
+
+Figure: GAN process
 
 Imitation of Claude Manet Art work from real images (GAN)
 
@@ -8,6 +11,8 @@ Here, algorithm will be use to develop painting-like of his work. in other words
 
 The first code "I_AM_SOMETHING_OF_A_PAINTER_MYSELF." is a technique i'm developing to generate a real image that looks like a real photo>
 More task is on the run to be done
+
+![image](https://github.com/user-attachments/assets/2fb5c0fc-d7e6-4047-8249-08fc05110029)
 
 
 References: 
